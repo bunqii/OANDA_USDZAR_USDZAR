@@ -1,0 +1,119 @@
+{
+  "pod_version": "4.0",
+  "instrument": "USD_ZAR",
+  "granularity": "M1",
+  "chunk_start": "2012-07-01",
+  "chunk_end": "2012-07-31",
+  "parquet_file": "OANDA_USDZAR_USDZAR_1_2012-07-01_to_2012-07-31.parquet",
+  "data_file": "OANDA_USDZAR_USDZAR_1_2012-07-01_to_2012-07-31.parquet",
+  "row_count": 27476,
+  "first_candle": {
+    "time": 1341169020,
+    "Time": "2012-07-01T18:57:00.000000000Z",
+    "open": 8.17783,
+    "high": 8.17783,
+    "low": 8.17783,
+    "close": 8.17783,
+    "volume": 1
+  },
+  "last_candle": {
+    "time": 1343779020,
+    "Time": "2012-07-31T23:57:00.000000000Z",
+    "open": 8.25759,
+    "high": 8.25771,
+    "low": 8.25759,
+    "close": 8.25771,
+    "volume": 2
+  },
+  "csv_file": "OANDA_USDZAR_USDZAR_1_2012-07-01_to_2012-07-31.parquet",
+  "csv_row_count": 27476,
+  "csv_first_candle": {
+    "time": 1341169020,
+    "Time": "2012-07-01T18:57:00.000000000Z",
+    "open": 8.17783,
+    "high": 8.17783,
+    "low": 8.17783,
+    "close": 8.17783,
+    "volume": 1
+  },
+  "csv_last_candle": {
+    "time": 1343779020,
+    "Time": "2012-07-31T23:57:00.000000000Z",
+    "open": 8.25759,
+    "high": 8.25771,
+    "low": 8.25759,
+    "close": 8.25771,
+    "volume": 2
+  },
+  "status": "VERIFIED",
+  "verified_at": "2026-10-16T01:55:58.000000000Z",
+  "generated_at": "2026-10-16T01:55:58.000000000Z",
+  "download_request": {
+    "total_api_blocks_in_run": 2572,
+    "chunk_api_blocks": 10,
+    "chunk_permanent_errors": 0,
+    "permanent_error_details": [],
+    "all_block_outcomes": [
+      {
+        "from": "2012-06-28T17:00:00Z",
+        "to": "2012-07-02T04:20:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2012-07-02T04:20:00Z",
+        "to": "2012-07-05T15:40:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2012-07-05T15:40:00Z",
+        "to": "2012-07-09T03:00:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2012-07-09T03:00:00Z",
+        "to": "2012-07-12T14:20:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2012-07-12T14:20:00Z",
+        "to": "2012-07-16T01:40:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2012-07-16T01:40:00Z",
+        "to": "2012-07-19T13:00:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2012-07-19T13:00:00Z",
+        "to": "2012-07-23T00:20:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2012-07-23T00:20:00Z",
+        "to": "2012-07-26T11:40:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2012-07-26T11:40:00Z",
+        "to": "2012-07-29T23:00:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2012-07-29T23:00:00Z",
+        "to": "2012-08-02T10:20:00Z",
+        "code": 200,
+        "msg": "OK"
+      }
+    ]
+  }
+}
