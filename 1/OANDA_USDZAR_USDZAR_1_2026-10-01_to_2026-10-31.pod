@@ -6,7 +6,7 @@
   "chunk_end": "2026-10-31",
   "parquet_file": "OANDA_USDZAR_USDZAR_1_2026-10-01_to_2026-10-31.parquet",
   "data_file": "OANDA_USDZAR_USDZAR_1_2026-10-01_to_2026-10-31.parquet",
-  "row_count": 28833,
+  "row_count": 30210,
   "first_candle": {
     "time": 1790812800,
     "Time": "2026-10-01T00:00:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 370
   },
   "last_candle": {
-    "time": 1793257440,
-    "Time": "2026-10-29T07:04:00.000000000Z",
-    "open": 16.63181,
-    "high": 16.63341,
-    "low": 16.63125,
-    "close": 16.63262,
-    "volume": 129
+    "time": 1793340600,
+    "Time": "2026-10-30T06:10:00.000000000Z",
+    "open": 16.62307,
+    "high": 16.6233,
+    "low": 16.62256,
+    "close": 16.6233,
+    "volume": 12
   },
   "csv_file": "OANDA_USDZAR_USDZAR_1_2026-10-01_to_2026-10-31.parquet",
-  "csv_row_count": 28833,
+  "csv_row_count": 30210,
   "csv_first_candle": {
     "time": 1790812800,
     "Time": "2026-10-01T00:00:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 370
   },
   "csv_last_candle": {
-    "time": 1793257440,
-    "Time": "2026-10-29T07:04:00.000000000Z",
-    "open": 16.63181,
-    "high": 16.63341,
-    "low": 16.63125,
-    "close": 16.63262,
-    "volume": 129
+    "time": 1793340600,
+    "Time": "2026-10-30T06:10:00.000000000Z",
+    "open": 16.62307,
+    "high": 16.6233,
+    "low": 16.62256,
+    "close": 16.6233,
+    "volume": 12
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-10-29T07:05:10.000000000Z",
-  "generated_at": "2026-10-29T07:05:10.000000000Z",
+  "verified_at": "2026-10-30T06:11:23.000000000Z",
+  "generated_at": "2026-10-30T06:11:23.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 1,
     "chunk_api_blocks": 1,
@@ -55,8 +55,8 @@
     "permanent_error_details": [],
     "all_block_outcomes": [
       {
-        "from": "2026-10-28T05:33:00Z",
-        "to": "2026-10-29T07:05:00Z",
+        "from": "2026-10-29T06:59:00Z",
+        "to": "2026-10-30T06:11:00Z",
         "code": 200,
         "msg": "OK"
       }
